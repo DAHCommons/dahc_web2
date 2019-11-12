@@ -3,7 +3,7 @@
     <title>dahc_publii</title>
     <link href="https://dahcommons.github.io/dahc_web2/feed.xml" rel="self" />
     <link href="https://dahcommons.github.io/dahc_web2" />
-    <updated>2019-11-08T00:32:27-08:00</updated>
+    <updated>2019-11-12T12:36:30-08:00</updated>
     <author>
         <name>Raphael Radna</name>
     </author>
@@ -325,17 +325,17 @@
         <link href="https://dahcommons.github.io/dahc_web2/about.html"/>
         <id>https://dahcommons.github.io/dahc_web2/about.html</id>
 
-        <updated>2019-11-07T23:45:16-08:00</updated>
+        <updated>2019-11-12T12:32:45-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://dahcommons.github.io/dahc_web2/media/posts/1/01-Reception-in-DAHC.JPG" alt="" />
-                    The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates. The DAHC&hellip;
+                    ***TEST* The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates. The&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://dahcommons.github.io/dahc_web2/media/posts/1/01-Reception-in-DAHC.JPG" alt="" />
-                <p>The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.</p>
+                <p>***TEST*  The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.</p>
 <p>The DAHC is located in Music 1410 (formerly the Arts Library) on the campus of UC Santa Barbara.</p>
             ]]>
         </content>

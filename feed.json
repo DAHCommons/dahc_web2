@@ -84,8 +84,8 @@
             "id": "https://dahcommons.github.io/dahc_web2/about.html",
             "url": "https://dahcommons.github.io/dahc_web2/about.html",
             "title": "Welcome",
-            "summary": "The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates. The DAHC&hellip;",
-            "content_html": "<p>The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.</p>\n<p>The DAHC is located in Music 1410 (formerly the Arts Library) on the campus of UC Santa Barbara.</p>",
+            "summary": "***TEST* The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates. The&hellip;",
+            "content_html": "<p>***TEST*  The Digital Arts &amp; Humanities Commons (DAHC) is an open floor plan interdisciplinary co-working space for digital scholarship, pedagogy, and creative practice. The Commons vision is a vibrant, accessible space for open research and interdisciplinary collaboration, bringing together faculty, graduate students, and undergraduates.</p>\n<p>The DAHC is located in Music 1410 (formerly the Arts Library) on the campus of UC Santa Barbara.</p>",
             "image": "https://dahcommons.github.io/dahc_web2/media/posts/1/01-Reception-in-DAHC.JPG",
             "author": {
                 "name": "Raphael Radna"
@@ -93,7 +93,7 @@
             "tags": [
             ],
             "date_published": "2019-11-07T15:21:17-08:00",
-            "date_modified": "2019-11-07T23:45:16-08:00"
+            "date_modified": "2019-11-12T12:32:45-08:00"
         }
     ]
 }
